@@ -10,3 +10,9 @@
 - ✍️ Estudo para ser o melhor na que que faço. Sempre dedicado a terminar coisas que começo.
 - 📫 Você pode chegar até mim pelos meios de contato que possuo.
 - 😳 Um fato engraçado é que quando estou com sono eu fico bem lerdo. Rsrsrs
+
+<div>
+  <a href="https://github.com/pedro-victor21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-victor21&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-victor21&layout=compact&lags_count=16&theme=dark"/>
+</div>
